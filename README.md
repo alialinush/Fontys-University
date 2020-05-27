@@ -1,6 +1,6 @@
 # Fontys-University
-#### WEB1
-#### WEB2
-#### WEB3 - Laravel
+#### WEB1 - Web Development 1
+#### WEB2 - Web Development 2 
+#### WEB3 - Web Development 3 Laravel
 #### PROP Project - Music Festival Apps
 #### PROCP Project - Traffic Lights Simulation
